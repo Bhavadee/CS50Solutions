@@ -2,7 +2,7 @@
 #include <math.h>
 #include <cs50.h>
 
-int main()
+int main(void)
 {
     int cents_owed;
 
